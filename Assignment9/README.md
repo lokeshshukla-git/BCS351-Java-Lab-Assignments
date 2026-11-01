@@ -39,31 +39,43 @@ A matrix is a two-dimensional array that stores elements in rows and columns. Ne
 
 ### Question 1
 Matrix:
+
 1 2 3
+
 4 5 6
+
 7 8 9
 
 ### Question 2
 Matrix:
+
 1 2 3
+
 4 5 6
+
 7 8 9
 
 ### Question 3
 Matrix:
+
 1 2 3
+
 4 5 6
+
 7 8 9
 
 ## 7. Output
 
 ### Question 1
 First row: 1 2 3
+
 Last row: 7 8 9
 
 ### Question 2
 Column 1 sum: 12
+
 Column 2 sum: 15
+
 Column 3 sum: 18
 
 ### Question 3
