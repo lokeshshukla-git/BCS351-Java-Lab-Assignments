@@ -61,9 +61,13 @@ Count of g: 2
 Question 3
 
 0: h
+
 1: e
+
 2: l
+
 3: l
+
 4: o
 
 8. Result
