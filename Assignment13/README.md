@@ -70,25 +70,36 @@ Question 4: Print All Substrings
 
 Question 1
 
+
 Length: 11
 Position of g: 3
+
 Upper case: PROGRAMMING
+
 
 Question 2
 
 Reversed: avaJ
 
+
 Question 3
 
+
 racecar is a palindrome
+
 
 Question 4
 
 a
+
 ab
+
 abc
+
 b
+
 bc
+
 c
 
 8. Result
