@@ -124,28 +124,45 @@ Question 4:
 
 Question 1:
 
+
 Hello World
+
 Welcome to Java
+
 
 Question 2:
 
+
 Roll: 101
+
 Percentage: 84.5
+
 Section: B
+
 Name: Asha
+
 
 Question 3:
 
+
 Sum: 22
+
 Difference: 12
+
 Product: 85
+
 Quotient: 3
+
 Remainder: 2
+
 
 Question 4:
 
+
 Area: 153.86
+
 Perimeter: 43.96
+
 
 8. Result
 
